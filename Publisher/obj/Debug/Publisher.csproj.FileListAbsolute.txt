@@ -1,8 +1,0 @@
-C:\code\GitHub\Topics\Publisher\bin\Debug\Publisher.exe.config
-C:\code\GitHub\Topics\Publisher\bin\Debug\Publisher.exe
-C:\code\GitHub\Topics\Publisher\bin\Debug\Publisher.pdb
-C:\code\GitHub\Topics\Publisher\bin\Debug\Microsoft.ServiceBus.dll
-C:\code\GitHub\Topics\Publisher\bin\Debug\Microsoft.ServiceBus.xml
-C:\code\GitHub\Topics\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
-C:\code\GitHub\Topics\Publisher\obj\Debug\Publisher.exe
-C:\code\GitHub\Topics\Publisher\obj\Debug\Publisher.pdb

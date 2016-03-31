@@ -1,6 +1,0 @@
-C:\code\GitHub\Topics\Topics\bin\Debug\Topics.exe.config
-C:\code\GitHub\Topics\Topics\bin\Debug\Topics.exe
-C:\code\GitHub\Topics\Topics\bin\Debug\Topics.pdb
-C:\code\GitHub\Topics\Topics\obj\Debug\Topics.csprojResolveAssemblyReference.cache
-C:\code\GitHub\Topics\Topics\obj\Debug\Topics.exe
-C:\code\GitHub\Topics\Topics\obj\Debug\Topics.pdb
