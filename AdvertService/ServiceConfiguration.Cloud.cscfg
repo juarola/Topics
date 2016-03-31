@@ -3,16 +3,17 @@
   <Role name="AdvertWeb">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=jadverts;AccountKey=UKrSdgbR/D/sZsjatLyE5+f3BGbZGqJ0MCoJeAk63sNtqYABQ5Rkwelv9IXtPVtjJUGaI2hNsUJCeiSxymfgAA==;" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=jadverts;AccountKey=UKrSdgbR/D/sZsjatLyE5+f3BGbZGqJ0MCoJeAk63sNtqYABQ5Rkwelv9IXtPVtjJUGaI2hNsUJCeiSxymfgAA==;" />
+      <Setting name="AdvertsContext" value="Server=tcp:n8vrm0ccjc.database.windows.net,1433;Database=advertsdb;User ID=dbuser@n8vrm0ccjc;Password=D_buser1;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" />
     </ConfigurationSettings>
   </Role>
   <Role name="AdvertWorker">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="AdvertsDbConnectionString" value="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=Adverts; Integrated Security=True; MultipleActiveResultSets=True;" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=jadverts;AccountKey=UKrSdgbR/D/sZsjatLyE5+f3BGbZGqJ0MCoJeAk63sNtqYABQ5Rkwelv9IXtPVtjJUGaI2hNsUJCeiSxymfgAA==;" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=jadverts;AccountKey=UKrSdgbR/D/sZsjatLyE5+f3BGbZGqJ0MCoJeAk63sNtqYABQ5Rkwelv9IXtPVtjJUGaI2hNsUJCeiSxymfgAA==;" />
+      <Setting name="AdvertsDbConnectionString" value="Server=tcp:n8vrm0ccjc.database.windows.net,1433;Database=advertsdb;User ID=dbuser@n8vrm0ccjc;Password=D_buser1;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>

@@ -57,10 +57,14 @@
   <ItemGroup>
     <Folder Include="AdvertWebContent\" />
     <Folder Include="AdvertWorkerContent\" />
+    <Folder Include="Profiles" />
   </ItemGroup>
   <ItemGroup>
     <DiagnosticsConfiguration Include="AdvertWebContent\diagnostics.wadcfgx" />
     <DiagnosticsConfiguration Include="AdvertWorkerContent\diagnostics.wadcfgx" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishProfile Include="Profiles\j-topicsProduction.azurePubxml" />
   </ItemGroup>
   <!-- Import the target files for this project template -->
   <PropertyGroup>

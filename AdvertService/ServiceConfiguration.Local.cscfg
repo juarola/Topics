@@ -5,6 +5,7 @@
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
       <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="AdvertsContext" value="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=ContosoAds; Integrated Security=True; MultipleActiveResultSets=True;" />
     </ConfigurationSettings>
   </Role>
   <Role name="AdvertWorker">
@@ -12,7 +13,7 @@
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
       <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="AdvertsDbConnectionString" value="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=Adverts; Integrated Security=True; MultipleActiveResultSets=True;" />
+      <Setting name="AdvertsDbConnectionString" value="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=ContosoAds; Integrated Security=True; MultipleActiveResultSets=True;" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
