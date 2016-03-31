@@ -1,0 +1,8 @@
+C:\code\GitHub\Topics\Subscriber\bin\Debug\Subscriber.exe.config
+C:\code\GitHub\Topics\Subscriber\bin\Debug\Subscriber.exe
+C:\code\GitHub\Topics\Subscriber\bin\Debug\Subscriber.pdb
+C:\code\GitHub\Topics\Subscriber\bin\Debug\Microsoft.ServiceBus.dll
+C:\code\GitHub\Topics\Subscriber\bin\Debug\Microsoft.ServiceBus.xml
+C:\code\GitHub\Topics\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\code\GitHub\Topics\Subscriber\obj\Debug\Subscriber.exe
+C:\code\GitHub\Topics\Subscriber\obj\Debug\Subscriber.pdb
